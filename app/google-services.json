@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "1001127315587",
-    "firebase_url": "https://hakunamatatadb-3f000.firebaseio.com",
-    "project_id": "hakunamatatadb-3f000",
-    "storage_bucket": "hakunamatatadb-3f000.appspot.com"
+    "project_number": "1016041597331",
+    "firebase_url": "https://hakunamatatadb-6ee8e.firebaseio.com",
+    "project_id": "hakunamatatadb-6ee8e",
+    "storage_bucket": "hakunamatatadb-6ee8e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1001127315587:android:246f4a7ae5abdcd8",
+        "mobilesdk_app_id": "1:1016041597331:android:246f4a7ae5abdcd8",
         "android_client_info": {
           "package_name": "com.ayamit92.hakunamatatadb"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1001127315587-vp0m708ln7gfdugs0k321cmlj3l9jkkb.apps.googleusercontent.com",
+          "client_id": "1016041597331-uh31j9lcp4jt1d1k0ived31uf5qsjnug.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.ayamit92.hakunamatatadb",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "1001127315587-d7vh59838n0nqm9inpp8iv0v5k8gd0qj.apps.googleusercontent.com",
+          "client_id": "1016041597331-i2rklemnusg5cog829fgu758f7igi5lk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDV6H0D-hITrSfrdTYfHf_TLZDVyYlG2lA"
+          "current_key": "AIzaSyBEGSa15WcXArH-9-igcpWneKisscX_gAc"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "1001127315587-d7vh59838n0nqm9inpp8iv0v5k8gd0qj.apps.googleusercontent.com",
+              "client_id": "1016041597331-i2rklemnusg5cog829fgu758f7igi5lk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
